@@ -36,6 +36,14 @@ This project successfully implements a complete backend infrastructure migration
   - Configured email notifications for failed validations.
   - Deployed a Web App for JSON data export.
 
+
+### 🌐 Deployment & Demo
+
+*   **Google Sheet (Data Source)**: [Student_Registrations](https://docs.google.com/spreadsheets/d/1Rz6htGsdIm4yUAAl36t-5e91OT0CNX7xe3JWcZ6DASk/edit?usp=sharing)
+*   **Live Backend API (Render)**: [https://scaler-intern-backend.onrender.com/](https://scaler-intern-backend.onrender.com/)
+    *   *Docs endpoint*: [https://scaler-intern-backend.onrender.com/docs](https://scaler-intern-backend.onrender.com/docs)
+*   **Google App Script JSON Export**: [View JSON Data](https://script.googleusercontent.com/macros/echo?user_content_key=AehSKLjeexqORicQCyGSyp48u5WwQRu-Bsa4A2pVXxmqvWpqxnvAZ__gq19tTMG5QZqXt5heKgtEYvMkXTf1kmqYShykIP0Nfcg4vcMixP_-KrrZRqga4EkohrU6EBj6AEMi5cqOWibthpsLa8JP2cjokbYLfPzPx7xvm2zxy9_HyTMsqy6oKdqkx7k6c2c-7rqmhniJY6ZUpPElDlhKdRkkKe-WeWFg9lNyJH_v0DUaH5y8ObhAYFUrMhBHsn43jBSod8tBDVpsYUgF7Oa1YQ2dzudI4xutOQ&lib=MeQPQEbVFko65gzH0fgC88g6WQ4otHTfx)
+
 ### 📂 Project Structure
 
 ```
